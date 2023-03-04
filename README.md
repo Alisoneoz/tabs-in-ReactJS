@@ -2,7 +2,7 @@
 
 ![Tabs-in-ReactJS](https://user-images.githubusercontent.com/96319139/222869331-9daa2dda-086b-4d70-af68-b872dbf26812.png)
 
-Small app with tabs made with ReactJS
+Small app with Tabs, made with ReactJS
 
 ## Demo Link: 
 
