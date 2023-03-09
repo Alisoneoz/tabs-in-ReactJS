@@ -6,7 +6,7 @@ Small app with Tabs, made with ReactJS
 
 ## Demo Link: 
 
-[Link](https://todo-mern-app-alisoneoz.netlify.app/login)
+[Link](https://tabs-in-reactjs.netlify.app/)
 
 ## License
 
